@@ -1,0 +1,30 @@
+.trending-nfts{
+    padding: 58px 0px;
+    position: relative;
+}
+.tn-title{
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 70px;
+}
+.tf-r-bg-blob{
+    height: 550px;
+    width: 550px;
+    background-color: var(--bg-blob);
+    filter: blur(200.58px);
+    position: absolute;
+   
+    left:50%;
+    top:2%;
+    transform: translate(-50%);
+}
+.tn-btn{
+    margin-top: 30px;
+    
+   
+}
+.seemore-btn{
+ 
+    font-size: 14px;
+}

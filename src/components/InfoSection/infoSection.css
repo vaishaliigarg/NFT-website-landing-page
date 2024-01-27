@@ -1,0 +1,28 @@
+.info-section{
+
+    margin:48px 0px;
+    padding:3px 18px;
+
+}
+.is-heading{
+    font-size: 36px;
+    font-weight: 700;
+    padding:12px;
+    margin-bottom:36px;
+}
+.ic-inner-wrapper{
+    background: var(--text-gradient-1);
+    padding: 0.7px;
+    border-radius:18px ;
+
+}
+.ic-content{
+    background-color: var(--background);
+    border-radius: 18px;
+    padding: 18px;
+}
+.is-items-container{
+    display: flex;
+    justify-content: space-around;
+
+}

@@ -1,0 +1,19 @@
+.info-item{
+    flex-direction: column;
+    text-align: center;
+    margin: 0px 28px;
+    width:30%
+}
+.ii-title{
+    /* background:var(--text-gradient-1); */
+    font-size:28px;
+    font-weight:300;
+    margin-top: 18px;
+}
+.ii-description{
+    margin-top: 18px;
+    font-size: 18px;
+}
+.ii-icon{
+    height: 70px;
+}

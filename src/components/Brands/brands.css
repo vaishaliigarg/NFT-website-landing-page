@@ -1,0 +1,22 @@
+.brand-integration{
+    width:80%;
+    margin:auto;
+    padding: 24px 0px;
+   
+   
+}
+.bi-logos{
+    height:270px;
+    border-radius: 18px;
+}
+.bi-inner-wrapper{
+    background: var(--text-gradient-1);
+    padding: 0.7px;
+    border-radius:18px ;
+
+}
+.bi-content{
+    background-color: var(--background);
+    border-radius: 18px;
+    padding: 18px;
+}
